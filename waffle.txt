@@ -1,0 +1,4 @@
+mix waffle ingredients
+put in hot waffle iron
+remove from hot waffle iron when smoke turns black
+serve
